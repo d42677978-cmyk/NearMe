@@ -179,6 +179,9 @@ temple.html
 
 ![alt text](dhivi/myapp/static/TEMPLE.png)
 
+![alt text](dhivi/myapp/static/map.png)
+
+
 
 
 
