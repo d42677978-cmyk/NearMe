@@ -178,9 +178,7 @@ temple.html
 ![alt text](dhivi/myapp/static/MUSEUM.png)
 
 ![alt text](dhivi/myapp/static/TEMPLE.png)
-
-![alt text](dhivi/myapp/static/map.png)
-
+![alt text](httpsgithub.comd42677978-cmykSIH-25010.git.png)
 
 
 
